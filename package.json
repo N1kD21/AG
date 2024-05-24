@@ -1,0 +1,13 @@
+{
+  "name": "ag",
+  "version": "1.0.0",
+  "description": "Scraping site https://www.myhome.ge/",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "puppeteer": "^22.9.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
