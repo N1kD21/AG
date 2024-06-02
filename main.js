@@ -14,5 +14,4 @@ const link = 'https://www.myhome.ge/ka/s/iyideba-bina-Tbilisi/?Keyword=%E1%83%95
     //saving image into folder
     await saveImage(float);
   }
-
 })()
